@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppDB2</string>
+    <string-array name="Contract">
+        <item>Chính thức</item>
+        <item>Part time</item>
+        <item>Thử việc</item>
+        <item>Thời vụ</item>
+
+    </string-array>
+</resources>
